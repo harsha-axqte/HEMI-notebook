@@ -1,9 +1,9 @@
 # 🪐 Harsha Energy–Momentum Interaction (HEMI) – ORTT Simulation Suite
 
 **Author:** Harsha Vardhan Routhu  
-**Repository:** `HEMI-ORTT-Simulations`  
+**Repository:** `HEMI-Notebook`  
 **License:** Academic / Research Use  
-**DOI:** [10.5281/zenodo.17248446](https://doi.org/10.5281/zenodo.17248446)
+**DOI:** [![DOI](https://zenodo.org/badge/1069829881.svg)](https://doi.org/10.5281/zenodo.17267306)
 
 ---
 
